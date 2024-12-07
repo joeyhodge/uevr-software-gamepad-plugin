@@ -1,7 +1,7 @@
-[submodule "dependencies/submodules/glm"]
+[submodule "viGemBridge/include/glm"]
     path = viGemBridge/include/glm
     url = https://github.com/g-truc/glm
 
-[submodule "dependencies/submodules/imgui"]
+[submodule "viGemBridge/include/imgui"]
     path = viGemBridge/include/imgui
     url = https://github.com/ocornut/imgui
